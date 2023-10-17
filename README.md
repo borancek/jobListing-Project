@@ -27,3 +27,8 @@ Second Image
 <br>
 <br>
 In the first image, I executed a test using the POST request method to append a new job entry to the MongoDB database. The result comes to light in the second image, where a '200' response code validates the success of the operation, concurrently revealing the content that has been added to the database.
+
+## Get Posts with filter
+![Screenshot 2023-10-17 at 18 39 41](https://github.com/borancek/jobListing-Project/assets/77752760/5890afd5-1f66-47ae-bb2b-8bec143fbb5d)
+<br>
+Within this image, I executed a test involving the GET request method coupled with a specific filter. In this case, the filter's aim was to selectively retrieve all posts that exclusively feature the keyword 'Java.' The result comes to light under the server response header, where a '200' response code validates the success of the operation, concurrently revealing the content that has been added to the database.
