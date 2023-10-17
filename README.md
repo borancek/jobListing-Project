@@ -19,6 +19,7 @@ In this image, I executed a test involving the GET request method, aimed at retr
 ## Post Job
 ![Screenshot 2023-10-17 at 18 17 14](https://github.com/borancek/jobListing-Project/assets/77752760/563e8673-18a5-4d2c-8701-fccf0f64533a)
 <br>
+<br>
 ![Screenshot 2023-10-17 at 18 17 45](https://github.com/borancek/jobListing-Project/assets/77752760/deaa3a26-0617-4495-977e-9392c431b65d)
 <br>
 In the first image, I executed a test using the POST request method to append a new job entry to the MongoDB database. The result comes to light in the second image, where a '200' response code validates the success of the operation, concurrently revealing the content that has been added to the database.
