@@ -25,4 +25,5 @@ First Image
 <br>
 Second Image
 <br>
+<br>
 In the first image, I executed a test using the POST request method to append a new job entry to the MongoDB database. The result comes to light in the second image, where a '200' response code validates the success of the operation, concurrently revealing the content that has been added to the database.
